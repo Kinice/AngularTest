@@ -1,0 +1,23 @@
+{
+  "name": "angulartest",
+  "version": "1.0.0",
+  "description": "My Angular.js learning step.",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.5.0-rc.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kinice/AngularTest.git"
+  },
+  "author": "Kinice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kinice/AngularTest/issues"
+  },
+  "homepage": "https://github.com/Kinice/AngularTest#readme"
+}
